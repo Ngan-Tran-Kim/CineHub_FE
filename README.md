@@ -26,8 +26,8 @@ CineHub is a modern, responsive movie ticketing user interface built with React,
 
 1. Clone the repository:
    ```bash
-   git clone <REPOSITORY_URL>
-   cd CineHub_Movie_Ticketing_UI_v2
+   git clone https://github.com/dkv12345/CineHub_FE.git
+   cd CineHub_FE
    ```
 
 2. Install dependencies:
